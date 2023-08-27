@@ -8,7 +8,7 @@ from email.mime.text import MIMEText
 smtp_server = 'smtp.gmail.com'
 smtp_port = 587
 sender_email = 'sedarmenia@gmail.com'
-sender_password = 'xdkkmzwqtvwuywyo'
+sender_password = '-----'
 recipient_email = 'sedaasatryann@gmail.com'
 subject = 'Project 2'
 message = 'This is a test email sent from Python.'
